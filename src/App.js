@@ -15,6 +15,10 @@ function App() {
         <br />
         <h3 style={{textAlign: "center", color: "#fff"}}>Designed by Harsh</h3>
       </div>
+      <br />
+      <div>
+        <p style={{textAlign: "center", color: "#fff"}}> Note: This is a Desktop Version</p>
+      </div>
     </div>
   );
 }
