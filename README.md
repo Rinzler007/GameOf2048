@@ -1,8 +1,8 @@
 # GameOf2048
 
-This game is operational only in Desktops
+This game is operational only on a Desktop
 
-Link of the Website :- [https://2048byharsh.netlify.app](https://2048byharsh.netlify.app)
+Link of the Game :- [https://2048byharsh.netlify.app](https://2048byharsh.netlify.app)
 
 # Getting Started with Create React App
 
