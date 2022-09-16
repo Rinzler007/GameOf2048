@@ -4,7 +4,7 @@ This game is operational only on a Desktop
 
 Link of the Game :- [https://2048byharsh.netlify.app](https://2048byharsh.netlify.app)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
