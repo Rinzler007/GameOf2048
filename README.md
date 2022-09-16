@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Link of the Website :- [https://2048byharsh.netlify.app] (https://2048byharsh.netlify.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
